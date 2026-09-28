@@ -1,0 +1,6 @@
+{
+  "name": "KCET & COMEDK 2027 Predictor",
+  "description": "Karnataka Engineering 2027 College Predictor & Option Entry Strategy Builder with realistic cutoff analysis, Historical Mock Rank Tracker, and real Gemini AI Admissions Mentor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
